@@ -6,7 +6,6 @@ I'm a full-stack developer with 5+ years experience in .NET technologies and des
 I strive to perform at the best of my ability at all times. Continuously venturing to learn, adapt and embrace new technologies and skills.
 
 # Key Skills
-
 The list below contains the technologies I am most profficient and familiar with:
 - C# (.NET Framework/Core)
 - Entity Framework (Core)
@@ -15,7 +14,6 @@ The list below contains the technologies I am most profficient and familiar with
 - SQL
 
 ## Secondary Skills
-
 I also have experience with other products/technologies, they are defined below:
 - jQuery
 - SharePoint
@@ -23,3 +21,10 @@ I also have experience with other products/technologies, they are defined below:
 - TFS
 - Azure DevOps
 - GIT
+
+# Experience
+A list of previous employers (with employment dates) are below:
+- Aberdeen Standard Investments *(Oct 2016 - Apr 2021)*
+- Mintra *(Apr 2021 - PRESENT)*
+
+A more comprehensive breakdown of my employment history can be found on my [LinkedIn](https://www.linkedin.com/in/euangmair/).
