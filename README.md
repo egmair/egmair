@@ -5,8 +5,6 @@ I'm a full-stack developer with 8+ years experience in .NET technologies and des
 
 Since my days working with SharePoint & .NET Framework, I have moved on into a full-stack developer role within the Integration Team at [MINTRA](https://mintra.com/). We are a leading provider of HCM software for safety-critical sectors such as energy and maritime. At MINTRA, I primarily work with .NET Core and Angular but also support legacy applications hosted on .NET Framework.
 
-You have landed on my professional GitHub profile, if you'd like to visit my personal profile... go here: [link]
-
 ## 🔑 Key Skills
 - ![.NET Core](https://img.shields.io/badge/.NET-Core-blueviolet)
 - ![.NET Framework](https://img.shields.io/badge/.NET-Framework-blueviolet) 
